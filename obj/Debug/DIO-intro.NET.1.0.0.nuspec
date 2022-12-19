@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>DIO-intro.NET</id>
+    <version>1.0.0</version>
+    <authors>DIO-intro.NET</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net7.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="F:\DEV\DIO\DIO-intro.NET\bin\Debug\net7.0\DIO-intro.NET.runtimeconfig.json" target="lib\net7.0\DIO-intro.NET.runtimeconfig.json" />
+    <file src="F:\DEV\DIO\DIO-intro.NET\bin\Debug\net7.0\DIO-intro.NET.dll" target="lib\net7.0\DIO-intro.NET.dll" />
+  </files>
+</package>
