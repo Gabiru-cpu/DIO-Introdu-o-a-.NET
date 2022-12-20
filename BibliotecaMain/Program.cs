@@ -20,6 +20,21 @@ varCalc.Main();
 
 varChuva.Passear();
 
+//desafio 3
+int n, cont;
+for (int i = 1; i <= n; i++) 
+        {
+// TODO: Crie as outras condições necessárias para a resolução do desafio:
+            if (n % i == 0) 
+                 {
+                count++;
+            }
+            if (count > 3) {
+                Console.WriteLine(false);
+            }
+        }
+        
+         Console.WriteLine(count == 3);
 
 //desafio 2
 class ProgramaPaulinho{
