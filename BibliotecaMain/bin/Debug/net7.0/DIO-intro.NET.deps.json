@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "DIO-intro.NET/1.0.0": {
+        "dependencies": {
+          "BibliotecaDeClasses.common": "1.0.0"
+        },
+        "runtime": {
+          "DIO-intro.NET.dll": {}
+        }
+      },
+      "BibliotecaDeClasses.common/1.0.0": {
+        "runtime": {
+          "BibliotecaDeClasses.common.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DIO-intro.NET/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BibliotecaDeClasses.common/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

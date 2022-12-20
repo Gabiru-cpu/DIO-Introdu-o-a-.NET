@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33205.214
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DIO-intro.NET", "DIO-intro.NET.csproj", "{BA5DCE22-2F52-46E1-9329-9DC127A29309}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BibliotecaDeClasses.common", "BibliotecaDeClasses.common\BibliotecaDeClasses.common.csproj", "{A84B0C15-862B-4654-8055-F9C2C623A992}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DIO-intro.NET", "BibliotecaMain\DIO-intro.NET.csproj", "{DF42CE71-0901-4387-94DC-D56DAF17DCDA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +13,14 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{BA5DCE22-2F52-46E1-9329-9DC127A29309}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{BA5DCE22-2F52-46E1-9329-9DC127A29309}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{BA5DCE22-2F52-46E1-9329-9DC127A29309}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{BA5DCE22-2F52-46E1-9329-9DC127A29309}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A84B0C15-862B-4654-8055-F9C2C623A992}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A84B0C15-862B-4654-8055-F9C2C623A992}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A84B0C15-862B-4654-8055-F9C2C623A992}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A84B0C15-862B-4654-8055-F9C2C623A992}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF42CE71-0901-4387-94DC-D56DAF17DCDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF42CE71-0901-4387-94DC-D56DAF17DCDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF42CE71-0901-4387-94DC-D56DAF17DCDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF42CE71-0901-4387-94DC-D56DAF17DCDA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

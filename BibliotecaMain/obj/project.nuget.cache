@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "4M0SxjFX8h/RSuGRZqUe1DumGqpiAh2CmnrK0Pu+4aFVqruv0TF38gDt+KA+AIf6OgbXSluwyJAP6Df1in2m3A==",
+  "success": true,
+  "projectFilePath": "/run/media/gabriel/HD Hitachi/DEV/DIO/DIO-intro.NET/BibliotecaMain/DIO-intro.NET.csproj",
+  "expectedPackageFiles": [
+    "/home/gabriel/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.1/microsoft.aspnetcore.app.ref.7.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

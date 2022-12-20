@@ -7,7 +7,7 @@
             "type": "process",
             "args": [
                 "build",
-                "${workspaceFolder}/DIO-intro.NET.csproj",
+                "${workspaceFolder}/BibliotecaMain/DIO-intro.NET.csproj",
                 "/property:GenerateFullPaths=true",
                 "/consoleloggerparameters:NoSummary"
             ],
@@ -19,7 +19,7 @@
             "type": "process",
             "args": [
                 "publish",
-                "${workspaceFolder}/DIO-intro.NET.csproj",
+                "${workspaceFolder}/BibliotecaMain/DIO-intro.NET.csproj",
                 "/property:GenerateFullPaths=true",
                 "/consoleloggerparameters:NoSummary"
             ],
@@ -33,7 +33,7 @@
                 "watch",
                 "run",
                 "--project",
-                "${workspaceFolder}/DIO-intro.NET.csproj"
+                "${workspaceFolder}/BibliotecaMain/DIO-intro.NET.csproj"
             ],
             "problemMatcher": "$msCompile"
         }

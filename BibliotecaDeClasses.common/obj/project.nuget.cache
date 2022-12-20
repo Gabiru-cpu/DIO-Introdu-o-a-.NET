@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "kj9M+Teo3dggJ4FMC5l6cIuwjCf3nXf7NEuFjIEPq2OPfCZlnx63Oe+6VXUyyC5TACGlc+nfwOuLeMWuSXMHyw==",
+  "success": true,
+  "projectFilePath": "/run/media/gabriel/HD Hitachi/DEV/DIO/DIO-intro.NET/BibliotecaDeClasses.common/BibliotecaDeClasses.common.csproj",
+  "expectedPackageFiles": [
+    "/home/gabriel/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.1/microsoft.aspnetcore.app.ref.7.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

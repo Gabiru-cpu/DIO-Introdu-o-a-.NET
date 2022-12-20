@@ -1,0 +1,41 @@
+F:/DEV/DIO/DIO-intro.NET/bin/Debug/net7.0/DIO-intro.NET.exe
+F:/DEV/DIO/DIO-intro.NET/bin/Debug/net7.0/DIO-intro.NET.deps.json
+F:/DEV/DIO/DIO-intro.NET/bin/Debug/net7.0/DIO-intro.NET.runtimeconfig.json
+F:/DEV/DIO/DIO-intro.NET/bin/Debug/net7.0/DIO-intro.NET.dll
+F:/DEV/DIO/DIO-intro.NET/bin/Debug/net7.0/DIO-intro.NET.pdb
+F:/DEV/DIO/DIO-intro.NET/obj/Debug/net7.0/DIO-intro.NET.csproj.AssemblyReference.cache
+F:/DEV/DIO/DIO-intro.NET/obj/Debug/net7.0/DIO-intro.NET.GeneratedMSBuildEditorConfig.editorconfig
+F:/DEV/DIO/DIO-intro.NET/obj/Debug/net7.0/DIO-intro.NET.AssemblyInfoInputs.cache
+F:/DEV/DIO/DIO-intro.NET/obj/Debug/net7.0/DIO-intro.NET.AssemblyInfo.cs
+F:/DEV/DIO/DIO-intro.NET/obj/Debug/net7.0/DIO-intro.NET.csproj.CoreCompileInputs.cache
+F:/DEV/DIO/DIO-intro.NET/obj/Debug/net7.0/DIO-intro.NET.dll
+F:/DEV/DIO/DIO-intro.NET/obj/Debug/net7.0/refint/DIO-intro.NET.dll
+F:/DEV/DIO/DIO-intro.NET/obj/Debug/net7.0/DIO-intro.NET.pdb
+F:/DEV/DIO/DIO-intro.NET/obj/Debug/net7.0/DIO-intro.NET.genruntimeconfig.cache
+F:/DEV/DIO/DIO-intro.NET/obj/Debug/net7.0/ref/DIO-intro.NET.dll
+/run/media/gabriel/HD Hitachi/DEV/DIO/DIO-intro.NET/obj/Debug/net7.0/DIO-intro.NET.csproj.AssemblyReference.cache
+/run/media/gabriel/HD Hitachi/DEV/DIO/DIO-intro.NET/obj/Debug/net7.0/DIO-intro.NET.GeneratedMSBuildEditorConfig.editorconfig
+/run/media/gabriel/HD Hitachi/DEV/DIO/DIO-intro.NET/obj/Debug/net7.0/DIO-intro.NET.AssemblyInfoInputs.cache
+/run/media/gabriel/HD Hitachi/DEV/DIO/DIO-intro.NET/obj/Debug/net7.0/DIO-intro.NET.AssemblyInfo.cs
+/run/media/gabriel/HD Hitachi/DEV/DIO/DIO-intro.NET/obj/Debug/net7.0/DIO-intro.NET.csproj.CoreCompileInputs.cache
+/run/media/gabriel/HD Hitachi/DEV/DIO/DIO-intro.NET/obj/Debug/net7.0/DIO-intro.NET.dll
+/run/media/gabriel/HD Hitachi/DEV/DIO/DIO-intro.NET/obj/Debug/net7.0/refint/DIO-intro.NET.dll
+/run/media/gabriel/HD Hitachi/DEV/DIO/DIO-intro.NET/obj/Debug/net7.0/DIO-intro.NET.pdb
+/run/media/gabriel/HD Hitachi/DEV/DIO/DIO-intro.NET/BibliotecaMain/bin/Debug/net7.0/DIO-intro.NET
+/run/media/gabriel/HD Hitachi/DEV/DIO/DIO-intro.NET/BibliotecaMain/bin/Debug/net7.0/DIO-intro.NET.deps.json
+/run/media/gabriel/HD Hitachi/DEV/DIO/DIO-intro.NET/BibliotecaMain/bin/Debug/net7.0/DIO-intro.NET.runtimeconfig.json
+/run/media/gabriel/HD Hitachi/DEV/DIO/DIO-intro.NET/BibliotecaMain/bin/Debug/net7.0/DIO-intro.NET.dll
+/run/media/gabriel/HD Hitachi/DEV/DIO/DIO-intro.NET/BibliotecaMain/bin/Debug/net7.0/DIO-intro.NET.pdb
+/run/media/gabriel/HD Hitachi/DEV/DIO/DIO-intro.NET/BibliotecaMain/bin/Debug/net7.0/BibliotecaDeClasses.common.dll
+/run/media/gabriel/HD Hitachi/DEV/DIO/DIO-intro.NET/BibliotecaMain/bin/Debug/net7.0/BibliotecaDeClasses.common.pdb
+/run/media/gabriel/HD Hitachi/DEV/DIO/DIO-intro.NET/BibliotecaMain/obj/Debug/net7.0/DIO-intro.NET.csproj.AssemblyReference.cache
+/run/media/gabriel/HD Hitachi/DEV/DIO/DIO-intro.NET/BibliotecaMain/obj/Debug/net7.0/DIO-intro.NET.GeneratedMSBuildEditorConfig.editorconfig
+/run/media/gabriel/HD Hitachi/DEV/DIO/DIO-intro.NET/BibliotecaMain/obj/Debug/net7.0/DIO-intro.NET.AssemblyInfoInputs.cache
+/run/media/gabriel/HD Hitachi/DEV/DIO/DIO-intro.NET/BibliotecaMain/obj/Debug/net7.0/DIO-intro.NET.AssemblyInfo.cs
+/run/media/gabriel/HD Hitachi/DEV/DIO/DIO-intro.NET/BibliotecaMain/obj/Debug/net7.0/DIO-intro.NET.csproj.CoreCompileInputs.cache
+/run/media/gabriel/HD Hitachi/DEV/DIO/DIO-intro.NET/BibliotecaMain/obj/Debug/net7.0/DIO-intro.NET.csproj.CopyComplete
+/run/media/gabriel/HD Hitachi/DEV/DIO/DIO-intro.NET/BibliotecaMain/obj/Debug/net7.0/DIO-intro.NET.dll
+/run/media/gabriel/HD Hitachi/DEV/DIO/DIO-intro.NET/BibliotecaMain/obj/Debug/net7.0/refint/DIO-intro.NET.dll
+/run/media/gabriel/HD Hitachi/DEV/DIO/DIO-intro.NET/BibliotecaMain/obj/Debug/net7.0/DIO-intro.NET.pdb
+/run/media/gabriel/HD Hitachi/DEV/DIO/DIO-intro.NET/BibliotecaMain/obj/Debug/net7.0/DIO-intro.NET.genruntimeconfig.cache
+/run/media/gabriel/HD Hitachi/DEV/DIO/DIO-intro.NET/BibliotecaMain/obj/Debug/net7.0/ref/DIO-intro.NET.dll
